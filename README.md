@@ -8,7 +8,6 @@
 
 📫 Reach out on:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Jeswani-blue?logo=linkedin">](https://www.linkedin.com/in/adityajeswani/)
-<a href="mailto:adit98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adit98@gmail.com-9cf?logo=gmail"></a>
 
 
 
